@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hnoise.bsky.social) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hnoise7676) 
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HNoise7676&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HNoise7676&theme=midnight-purple&hide_border=false)<br/>
@@ -9,9 +10,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HNoise7676&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HNoise7676&icon=10&color=6)](https://visitcount.itsvg.in)
@@ -21,4 +19,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###### i removed the tech stack cause i felt like it just cluttered my profile
+###### i removed the tech stack and top contributed repository cause i felt like it just cluttered my profile
