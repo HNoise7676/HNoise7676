@@ -8,6 +8,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HNoise7676&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HNoise7676&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -15,8 +16,10 @@
 [![](https://visitcount.itsvg.in/api?id=HNoise7676&icon=10&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mistresspride) 
+<img width="192" height="192" alt="throne-qr-code" src="https://github.com/user-attachments/assets/618bf6b3-0149-4b86-b4bc-e91c36a12d3f" />
+https://throne.com/violet_drakonia
 
-  
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###### i removed the tech stack and top contributed repository cause i felt like it just cluttered my profile
