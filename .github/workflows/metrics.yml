@@ -30,10 +30,14 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          plugin_skyline: yes
-          plugin_skyline_frames: 120
+          #plugin_skyline: yes #its down :(
+          #plugin_skyline_frames: 120
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
